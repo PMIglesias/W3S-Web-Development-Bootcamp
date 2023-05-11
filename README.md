@@ -6,5 +6,5 @@ W3S Web Development Bootcamp
 
 [Module 1.2](https://pmiglesias.github.io/W3S-Web-Development-Bootcamp/assignments/module-1.2.html)
 
-[Module 1.4](https://pmiglesias.github.io/W3S-Web-Development-Bootcamp/assignments/module-1.2.htm)
+[Module 1.4](https://pmiglesias.github.io/W3S-Web-Development-Bootcamp/assignments/module-1.4/)
 
