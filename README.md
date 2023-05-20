@@ -12,6 +12,4 @@ W3S Web Development Bootcamp
 
 [Simple Calculator](https://pmiglesias.github.io/W3S-Web-Development-Bootcamp/assignments/javascript-application/calc/index.html)
 
-## Project Piano Javascript
-
 [Simple Piano](https://pmiglesias.github.io/W3S-Web-Development-Bootcamp/assignments/project-piano-js/index.html)
