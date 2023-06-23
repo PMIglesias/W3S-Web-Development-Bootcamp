@@ -6,7 +6,7 @@ W3S Web Development Bootcamp
 
 [Module 1.2](https://pmiglesias.github.io/W3S-Web-Development-Bootcamp/assignments/module-1-fundamentals/module-1.2-html-elements-and-attributes-and-html-tables-and-forms/module-1.2.html)
 
-[Module 1.4](https://pmiglesias.github.io/W3S-Web-Development-Bootcamp/assignments/module-1-fundamentals/module-1.4-css-selectors-and-box-model/module-1.4/index.html)
+[Module 1.4](https://pmiglesias.github.io/W3S-Web-Development-Bootcamp/assignments/module-1-fundamentals/module-1.4-css-selectors-and-box-model/index.html)
 
 ## Project (HTML / CSS / JS) - JavaScript Application
 
